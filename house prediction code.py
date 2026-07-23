@@ -1,8 +1,5 @@
 
-# =====================================
 # HOUSE PRICE PREDICTION
-# Linear Regression (2 Features)
-# =====================================
 
 # Import Libraries
 import pandas as pd
