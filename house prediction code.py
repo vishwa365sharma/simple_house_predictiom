@@ -73,3 +73,8 @@ plt.xlabel("Actual Price")
 plt.ylabel("Predicted Price")
 plt.title("Actual vs Predicted")
 plt.show()
+
+
+import pickle
+
+pickle.dump(model, open("house_model.pkl","wb"))
